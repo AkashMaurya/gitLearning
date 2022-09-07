@@ -1,0 +1,25 @@
+/************************************** Git Notes ********************************/
+
+
+Checking the version of git installed on the system.
+$ git --version
+git version 2.37.3.windows.1
+
+
+Setting the global user name.
+$ git config --global user.name
+AkashMaurya
+
+
+Check the global user email address.
+$ git config --global user.email
+akashmaur94@gmail.com
+
+
+Setting the global user name.
+$ git config --global user.name "Aakash Maurya"
+
+
+Check the global user name.
+$ git config --global user.name
+Aakash Maurya
